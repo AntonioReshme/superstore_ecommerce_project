@@ -1,5 +1,5 @@
 # Superstore Sales Data Analytics Project
-                                                            ![super image](https://github.com/user-attachments/assets/a5319988-a163-4638-a399-92d9e78d4f1d)
+    ![super image](https://github.com/user-attachments/assets/a5319988-a163-4638-a399-92d9e78d4f1d)
 
 
 ## Description
