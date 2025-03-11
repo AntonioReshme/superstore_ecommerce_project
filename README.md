@@ -41,3 +41,8 @@ The Superstore Sales Data Analytics Project will empower the organization with a
   5. Forecast future sales trends to streamline resource allocation and planning.
 
 By leveraging the capabilities of pandas, matplotlib, and seaborn, this data analytics project will pave the way for data-driven decision-making, ultimately leading to improved business performance and growth for the retail superstore.Forecasting: Implement time series forecasting techniques to predict future sales trends and estimate future demand for specific products
+
+## Author - Antonio Reshme
+
+This project is part of my portfolio, showcasing pandas, matplotlib and seaborn skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+
